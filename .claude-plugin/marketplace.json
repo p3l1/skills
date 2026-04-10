@@ -1,0 +1,13 @@
+{
+  "name": "p3l1-skills",
+  "owner": {
+    "name": "p3l1"
+  },
+  "plugins": [
+    {
+      "name": "obsidian-cli",
+      "description": "Interact with an Obsidian vault — read/write notes, search, manage tasks, and more",
+      "source": "./skills/obsidian-cli"
+    }
+  ]
+}
