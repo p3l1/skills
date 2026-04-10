@@ -4,7 +4,14 @@ Personal Claude Code plugin marketplace.
 
 ## Installation
 
-Add to `~/.claude/settings.json`:
+Run inside Claude Code:
+
+```
+/plugin marketplace add p3l1/skills
+/plugin install skills@p3l1-skills
+```
+
+Or manually add to `~/.claude/settings.json`:
 
 ```json
 {
@@ -24,4 +31,6 @@ Add to `~/.claude/settings.json`:
 
 ## Skills
 
-<!-- skills list -->
+| Skill | Description |
+|---|---|
+| `/obsidian-cli` | Interact with an Obsidian vault — read/write notes, search, manage tasks, and more |
