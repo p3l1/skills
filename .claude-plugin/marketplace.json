@@ -13,6 +13,11 @@
       "name": "german",
       "description": "Write and translate professional German business communication",
       "source": "./skills/german"
+    },
+    {
+      "name": "commit",
+      "description": "Create GPG-signed git commits using conventional commits",
+      "source": "./skills/commit"
     }
   ]
 }

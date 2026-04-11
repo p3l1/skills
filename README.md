@@ -35,3 +35,4 @@ Or manually add to `~/.claude/settings.json`:
 |---|---|
 | `/obsidian-cli` | Interact with an Obsidian vault — read/write notes, search, manage tasks, and more |
 | `/german` | Write and translate professional German business communication |
+| `/commit` | Create GPG-signed git commits using conventional commits |
