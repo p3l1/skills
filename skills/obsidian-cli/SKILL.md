@@ -11,11 +11,10 @@ description: >
   not to explain. Also trigger for vault automation, CLI scripting, or cron-based
   workflows involving Obsidian, managing sync history, querying Bases, restoring file
   versions via history, managing bookmarks, or running JavaScript against the Obsidian
-  API. Skip for pure conceptual questions: how Obsidian's GUI works, navigating settings
-  menus, theme or plugin installation via the UI, iCloud/third-party sync conflicts,
-  general Dataview query syntax, keyboard shortcuts, or parsing vault files with external
-  scripts — anything where the user needs an explanation rather than Claude performing a
-  vault operation.
+  API. Skip for pure conceptual questions: GUI navigation, settings menus, plugin
+  installation via UI, iCloud/third-party sync conflicts, Dataview syntax, keyboard
+  shortcuts, or external script parsing — anything where the user needs an explanation,
+  not Claude performing a vault operation.
 triggers:
   - "obsidian"
   - "vault"
