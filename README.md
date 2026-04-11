@@ -34,3 +34,4 @@ Or manually add to `~/.claude/settings.json`:
 | Skill | Description |
 |---|---|
 | `/obsidian-cli` | Interact with an Obsidian vault — read/write notes, search, manage tasks, and more |
+| `/german` | Write and translate professional German business communication |
