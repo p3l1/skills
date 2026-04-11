@@ -33,3 +33,11 @@ Skills live in `skills/<skill-name>/SKILL.md`. Each `SKILL.md` has YAML frontmat
 
 - When adding a skill, add a one-line entry to the `## Skills` section in `README.md`
 - Keep `SKILL.md` under 500 lines; move reference material to sibling files in the skill directory
+
+## Adding a new skill
+
+1. Create `skills/<skill-name>/SKILL.md` with YAML frontmatter and instructions
+2. Add reference files to `skills/<skill-name>/references/` if needed
+3. Add a one-line entry to `README.md` under `## Skills`
+4. Add an entry to `.claude-plugin/marketplace.json` under `"plugins"`
+5. Commit and push
