@@ -8,6 +8,11 @@
       "name": "obsidian-cli",
       "description": "Interact with an Obsidian vault — read/write notes, search, manage tasks, and more",
       "source": "./skills/obsidian-cli"
+    },
+    {
+      "name": "german",
+      "description": "Write and translate professional German business communication",
+      "source": "./skills/german"
     }
   ]
 }
